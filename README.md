@@ -1,1 +1,1 @@
-# odin-recipes
+The current project is recipes HTML website. This is a very first project in The Odin Project course. # odin-recipes
